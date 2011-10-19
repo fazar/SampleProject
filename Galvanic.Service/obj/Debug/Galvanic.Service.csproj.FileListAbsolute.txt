@@ -1,0 +1,15 @@
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Service.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Service.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Data.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Model.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\StructureMap.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Data.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Infrastructure.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\Galvanic.Model.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\StructureMap.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Debug\StructureMap.xml
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Debug\Galvanic.Service.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Debug\Galvanic.Service.pdb

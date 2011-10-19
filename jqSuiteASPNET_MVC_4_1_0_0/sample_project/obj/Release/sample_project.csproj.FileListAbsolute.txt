@@ -1,0 +1,12 @@
+C:\2\sample_project\obj\Release\ResolveAssemblyReference.cache
+C:\2\sample_project\bin\sample_project.dll
+C:\2\sample_project\bin\sample_project.pdb
+C:\2\sample_project\obj\Release\sample_project.dll
+C:\2\sample_project\obj\Release\sample_project.pdb
+C:\2\sample_project\bin\Trirand.Web.Mvc.dll
+C:\2\sample_project\bin\Trirand.Web.Mvc.pdb
+C:\work\AspNetMvcSampleSite\sample_project\bin\sample_project.dll
+C:\work\AspNetMvcSampleSite\sample_project\bin\sample_project.pdb
+C:\work\AspNetMvcSampleSite\sample_project\obj\Release\ResolveAssemblyReference.cache
+C:\work\AspNetMvcSampleSite\sample_project\obj\Release\sample_project.dll
+C:\work\AspNetMvcSampleSite\sample_project\obj\Release\sample_project.pdb

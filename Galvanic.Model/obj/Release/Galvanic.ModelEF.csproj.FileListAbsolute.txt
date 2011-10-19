@@ -1,0 +1,11 @@
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\Galvanic.Model.dll.config
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\Galvanic.Model.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\Galvanic.Model.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\StructureMap.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\WebActivator.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\StructureMap.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Model\bin\Release\StructureMap.xml
+D:\Fazar\Labs\Galvanic\Galvanic.Model\obj\Release\ResolveAssemblyReference.cache
+D:\Fazar\Labs\Galvanic\Galvanic.Model\obj\Release\Galvanic.Model.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Model\obj\Release\Galvanic.Model.pdb

@@ -1,0 +1,7 @@
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\bin\Debug\Galvanic.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\bin\Debug\Galvanic.Infrastructure.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\bin\Debug\Galvanic.Model.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\bin\Debug\Galvanic.Model.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\obj\Debug\Galvanic.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Infrastructure\obj\Debug\Galvanic.Infrastructure.pdb

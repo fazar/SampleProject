@@ -1,0 +1,15 @@
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Service.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Service.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Data.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Model.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\StructureMap.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Data.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Infrastructure.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\Galvanic.Model.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\StructureMap.pdb
+D:\Fazar\Labs\Galvanic\Galvanic.Service\bin\Release\StructureMap.xml
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Release\ResolveAssemblyReference.cache
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Release\Galvanic.Service.dll
+D:\Fazar\Labs\Galvanic\Galvanic.Service\obj\Release\Galvanic.Service.pdb

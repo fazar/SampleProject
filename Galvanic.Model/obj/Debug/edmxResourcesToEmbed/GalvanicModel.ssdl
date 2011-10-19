@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GalvanicModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="GalvanicModelStoreContainer">
+    <EntitySet Name="UserSet" EntityType="GalvanicModel.Store.UserSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderSet" EntityType="GalvanicModel.Store.OrderSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="UserOrder" Association="GalvanicModel.Store.UserOrder">
+      <End Role="User" EntitySet="UserSet" />
+      <End Role="Order" EntitySet="OrderSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="UserSet">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderSet">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <Association Name="UserOrder">
+    <End Role="User" Type="GalvanicModel.Store.UserSet" Multiplicity="1" />
+    <End Role="Order" Type="GalvanicModel.Store.OrderSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
